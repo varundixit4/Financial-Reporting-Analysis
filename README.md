@@ -17,7 +17,7 @@
   <li>Which product contribute the most to the revenue?
 </ul>
 <h2>Dashboard</h2>
-<p>Built in PowerBI, this dashboard provides a thorough analysis of the company’s revenue streams. It includes all relevant sales metrics, allowing users to explore how different factors—such as product performance, regional sales, and sales representatives—affect the company’s total revenue. The dashboard also highlights revenue trends over time, offering insights into quarterly performance and other key financial aspects.</p>
+<p>Built in PowerBI, this dashboard provides a thorough analysis of the company’s revenue streams. It includes all relevant sales metrics, allowing users to explore how different factors—such as product performance, regional sales, and sales representatives—affect the company’s total revenue. The dashboard also highlights revenue trends over time across various regions, offering insights into quarterly performance and other key financial aspects.</p>
 <img src='./Revenue Analysis.PNG'>
 <h4><a href='./Revenue Analysis Dashboard.pdf'>View the pdf file of the dashboard here.</a><h4>
 <h4><a href='./Revenue Analysis Dashboard.pbix'>Download the pbix file of the dashboard here.</a><h4>
